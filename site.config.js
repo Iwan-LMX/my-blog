@@ -8,12 +8,12 @@ const CONFIG = {
     email: "iwan.li@outlook.com",
     linkedin: "https://www.linkedin.com/in/iwanli/",
     github: "https://github.com/Iwan-LMX",
-    instagram: "",
+    instagram: "https://www.instagram.com/10000_iwan/",
   },
   projects: [
     {
       name: `iwan-lmx`,
-      href: "https://github.com/Iwan-LMX/iwan-lmx",
+      href: "https://github.com/Iwan-LMX/my-blog",
     },
   ],
   // blog setting (required)
@@ -54,7 +54,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",
