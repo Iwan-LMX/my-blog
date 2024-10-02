@@ -6,9 +6,9 @@ const CONFIG = {
     role: "PG in UNSW",
     bio: "Find interesting in the thing, enjoy it.",
     email: "iwan.li@outlook.com",
-    linkedin: "https://www.linkedin.com/in/iwanli/",
-    github: "https://github.com/Iwan-LMX",
-    instagram: "https://www.instagram.com/10000_iwan/",
+    linkedin: "iwanli/",
+    github: "Iwan-LMX",
+    instagram: "10000_iwan/",
   },
   projects: [
     {
